@@ -1,7 +1,7 @@
 {
     "name": "kbs.im",
     "description": "kbs.im but in an extension so you can have fake keyboard sounds.",
-    "version": "1.3a",
+    "version": "1.5",
     "manifest_version": 2,
     "permissions": [
         "storage",
