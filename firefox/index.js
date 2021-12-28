@@ -186,10 +186,6 @@ function loaded() {
           <span class="toggle-label">${response.enabled ? "Enabled" : "Disabled"}</span>
         </label>
       `);
-      document.write(`
-        <br>
-        <p>This extension is not affiliated with kbs.im<p>
-      `);
       document.write("</center>");
       var switchType = document.getElementById("switchType");
       switchType.value = response.selectedSwitchType.key;

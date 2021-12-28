@@ -25,5 +25,5 @@
    "manifest_version": 2,
    "name": "kbs.im",
    "permissions": [ "storage", "<all_urls>" ],
-   "version": "1.5"
+   "version": "1.6"
 }
